@@ -1,0 +1,82 @@
+#text1{
+    font-size: xx-large;
+}
+#ul1 li a:hover{
+    color: aqua;
+}
+#d1{
+    background-color:black;
+    height: 530px;
+}
+#m1{
+    width: 420px;
+    height: 530px;
+    margin-left: 700px;
+   
+}
+
+
+#h11{
+    color: white;
+    position: absolute;
+    top: 260px;
+    left: 330px;
+    transition: 1s ease-in-out;
+
+}
+#h11:hover{ 
+   transform: scale(0.6);
+   color: aqua;
+  
+} 
+#h12{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 340px;
+    left: 330px;
+    transition: 1s ease-in-out;
+}
+#h12:hover{ 
+    transform: scale(0.6);
+    color: aqua;
+} 
+#d2{
+    /* background-color:black; */
+    height: 530px;
+    /* margin-top: 10px; */
+}
+#h13{
+    font-size: 50px;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+#i1{
+    color: white;
+    position: absolute;
+    left: 380px;
+    top: 410px;
+    
+    font-size: xx-large;
+}
+#i2{
+    color: white;
+    position: absolute;
+    left: 330px;
+    top: 410px;
+    font-size: xx-large;
+}
+#i3{
+    color: white;
+    position: absolute;
+    left: 430px;
+    top: 410px;
+    font-size: xx-large;
+}
+#i4{
+    color: white;
+    position: absolute;
+    left: 480px;
+    top: 410px;
+    font-size: xx-large;
+}

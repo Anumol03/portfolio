@@ -1,0 +1,38 @@
+.d1{
+    width: 800px;
+    height: 500px;
+    background-color: black;
+   margin-left: 250px;
+   margin-top: 60px;
+   border-radius: 50px;
+}
+#ul1 li a:hover{
+    color: aqua;
+}
+#h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+#h5{
+    color: aqua;
+    margin-left: 300px;
+}
+#p1{
+    color: white;
+    padding: 10px;
+   margin-left: 150px;
+}
+#a1{
+    color:black;
+    font-size: large;
+    text-decoration: none;
+}
+.b2{
+    background-color: aqua;
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 330px;
+    border-radius: 50px;
+}

@@ -1,0 +1,42 @@
+#ul1 li a:hover{
+    color: aqua;
+}
+.d1{
+    height: 700px;
+    background-color: black;
+}
+#h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.v1{
+    width: 80%;
+    /* margin-top: 150px; */
+     margin-left: 60px; 
+}
+.d2{
+    width: 50%;
+}
+#h3{
+    color:aqua;
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 270px;
+    margin-top: 100px;
+}
+.p1{
+    color: white;
+    margin-left: 180px;
+}
+#i1{
+    font-size: xx-large;
+    color: white;
+    margin-left:300px ;
+}
+.v2{
+    width: 80%;
+    /* margin-top: 150px; */
+     margin-left: 60px; 
+}

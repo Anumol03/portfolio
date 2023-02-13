@@ -1,0 +1,10 @@
+#ul1 li a:hover{
+    color: aqua;
+}
+#d1{
+    width: 800px;
+    height: 600px;
+    /* background-color: black; */
+    margin-top: 20px;
+    margin-left: 250px;
+}
